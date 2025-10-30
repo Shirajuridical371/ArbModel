@@ -15,7 +15,7 @@ C++ linear algebra library for symmetric matrix diagonalization.
 ## ✨ Key Improvement
 
 The modified `SymmetricDiag` function employs Eigen’s `SelfAdjointEigenSolver`, resulting in a
-**~100× performance improvement** compared to the legacy LAPACK-based method on modern CPUs.
+**~100× performance improvement** compared to the original.
 
 - **Tested on:** Apple M3 MacBook Pro  
 - **Compiler:** `clang++` (Apple Clang 16) with `-O3 -std=c++17`  
