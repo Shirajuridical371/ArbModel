@@ -1,7 +1,7 @@
 # ArbModel
 
 Modified version of the **ArbModel** nuclear structure code originally developed by  
-**S. Heinze**, *University of Cologne (2008)*.
+**S. Heinze**, *University of Cologne (2008)*. Posted with permission.
 
 > Citation:  
 > S. Heinze, *computer program ArbModel*, University of Cologne (2008).
@@ -114,7 +114,7 @@ Please cite:
 
 Additional acknowledgment is **welcome but not required**:
 
-> Modifications by A. L. Conley (https://github.com/alconley), implementing Eigen-based diagonalization for high-performance computations (2025).
+> Modifications by A. L. Conley (https://github.com/alconley/ArbModel), implementing Eigen-based diagonalization for high-performance computations (2025).
 
 ---
 
