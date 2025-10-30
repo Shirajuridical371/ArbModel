@@ -1,0 +1,113 @@
+# ============================
+# ArbModel-Eigen .gitignore
+# ============================
+
+# --- Build artifacts ---
+*.o
+*.obj
+*.so
+*.a
+*.out
+*.exe
+*.dll
+*.dylib
+*.mod
+*.core
+*.stackdump
+
+# --- Executables and binaries ---
+arbmodel
+arbmodel.exe
+arbmodel.out
+arbmodel_debug
+a.out
+
+# --- Build directories ---
+build/
+bin/
+obj/
+lib/
+tmp/
+tmp_jobs/
+dist/
+__pycache__/
+.cache/
+.vscode/
+.idea/
+
+# --- CMake / Makefiles ---
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.make
+*.ninja
+*.ninja_deps
+*.ninja_log
+
+# --- Backup and temp files ---
+*~
+*.bak
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+*.log
+
+# --- Python virtual environments ---
+venv/
+.env/
+.venv/
+env/
+pip-wheel-metadata/
+*.egg-info/
+__pycache__/
+
+# --- Local scripts and data ---
+*.csv
+*.parquet
+*.root
+*.dat
+*.out
+*.txt
+*.pdf
+*.png
+*.jpg
+*.in
+
+# --- IDEs and editors ---
+.vscode/
+.idea/
+*.code-workspace
+
+# --- macOS specific ---
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# --- Eigen include path (if symlinked locally) ---
+eigen3/
+include/eigen3/
+
+# --- System specific files ---
+*.lock
+*.pid
+*.tmp
+
+# --- Logs and profiling ---
+*.prof
+*.perf
+*.trace
+*.json
+*.xml
+
+# --- Custom local notes or archives ---
+notes/
+archive/
+backup/
+
+# ============================
+# End of file
+# ============================
